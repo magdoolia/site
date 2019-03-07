@@ -1,0 +1,216 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Lateef', cursive;
+  background-color: #defcfc;
+
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #caabd8;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Nanum Pen Script', cursive;
+  color: #bf81ff;
+}
+
+h3 {
+  color: #a06ee1;
+  font-family: 'Nanum Pen Script', cursive;
+}
+p {
+  font-size: 1.75rem;
+  color: #714288;
+}
+li{
+  font-size: 1.5rem;
+  color: #714288;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+border-color: #ffc5e6;
+border-width: 5px;
+width: 5%;
+margin: 100px auto;
+}
+
+a {
+  font-family: 'Lateef', cursive;
+  text-decoration: none;
+  font-size: 1.75rem;
+  color: #ea168e;
+}
+
+a:hover {
+  color: #714288;
+}
+.top-container {
+  background-color: #defcfc;
+  padding-top: 100px;
+
+}
+
+div {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.middle-container {
+  background-color: #defcfc;
+  margin-bottom: 0;
+  border-bottom: 0;
+  padding-bottom: 0;
+
+}
+
+.bottom-container {
+  background-color: #defcfc;
+  margin-top: 0;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+
+.profile-picture {
+  border-radius: 50%;
+padding-top: 20px;
+}
+
+
+.main {
+  color: #bf81ff;
+  font-weight: normal;
+}
+.skills {
+  position: relative;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+.skill-row-1 {
+  width: 30%;
+  line-height: 2;
+position: relative;
+left: 15%;
+top: 20px;
+
+}
+.skill-row-2 {
+  width: 30%;
+  line-height: 2;
+position: relative;
+left: 55%;
+bottom: 180px;
+margin: 0;
+border: 0;
+padding: 0;
+}
+
+.Hobbies {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.hobby-row-1 {
+  width: 30%;
+  line-height: 2;
+position: relative;
+left: 15%;
+top: 20px;
+
+}
+.hobby-row-2 {
+  width: 30%;
+  line-height: 2;
+position: relative;
+left: 55%;
+bottom: 375px;
+margin: 0;
+border: 0;
+padding: 0;
+}
+
+.secondary {
+  text-align: left;
+}
+.pedals {
+  width: 10%;
+
+}
+.knitting{
+  width: 50%;
+}
+.writting{
+  width: 40%
+}
+.mountains {
+  width: 15%;
+margin-right: 30px;
+  float: left;
+}
+.profile {
+  width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+
+.btn {
+  background: #f073b6;
+  background-image: -webkit-linear-gradient(top, #f073b6, #a269c7);
+  background-image: -moz-linear-gradient(top, #f073b6, #a269c7);
+  background-image: -ms-linear-gradient(top, #f073b6, #a269c7);
+  background-image: -o-linear-gradient(top, #f073b6, #a269c7);
+  background-image: linear-gradient(to bottom, #f073b6, #a269c7);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Lateef', cursive;
+  color: #800e80;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-me{
+  width: 50%;
+  margin: 100px auto;
+
+}
+.copyright {
+color: #bf81ff;
+font-size: 0.85rem;
+}
+
+.social {
+  width: 10%;
+}
